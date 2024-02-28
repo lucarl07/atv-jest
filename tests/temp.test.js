@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-const conversorDeTemperatura = require('../index');
+const conversorDeTemperatura = require('../js/temp');
 
 describe('Testa a função conversorDeTemperatura()', () => {
   test('Verifica se 30 °C é igual a 86 °F', () => {
